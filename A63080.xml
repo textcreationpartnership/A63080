@@ -1,0 +1,354 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>This is for all or any of those (by what name or title soever they be distinguished) that resist the Spirit and despise the grace that brings salvation that favour them which work wickedness and condemn the righteous, upon such must be fulfilled the judgments prophesied : also, things to come are here declared, but blind men cannot see, but as the world draws to an end, some shall remember me / [by] R.T.</title>
+            <author>R. T. (Rebecca Travers), 1609-1688.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63080</idno>
+            <idno type="STC">Wing T2063</idno>
+            <idno type="STC">ESTC R32889</idno>
+            <idno type="EEBO-CITATION">12777163</idno>
+            <idno type="OCLC">ocm 12777163</idno>
+            <idno type="VID">93778</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63080)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93778)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1537:54)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>This is for all or any of those (by what name or title soever they be distinguished) that resist the Spirit and despise the grace that brings salvation that favour them which work wickedness and condemn the righteous, upon such must be fulfilled the judgments prophesied : also, things to come are here declared, but blind men cannot see, but as the world draws to an end, some shall remember me / [by] R.T.</title>
+                  <author>R. T. (Rebecca Travers), 1609-1688.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages stained with print showthrough and loss of print.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+               <term>Prophecy --  Christianity.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93778:1"/>
+            <pb facs="tcp:93778:1" rendition="simple:additions"/>
+            <p>THIS IS For all or any of thoſe (by what name or title ſoever they be diſtin<g ref="char:EOLhyphen"/>guiſhed) that reſiſt the Spirit, and deſpiſe the Grace that brings Salvation, that favour them which work wickedneſs, and condemn the Righte<g ref="char:EOLhyphen"/>ous; upon ſuch muſt be fulfilled the Judg<g ref="char:EOLhyphen"/>ments Pro<g ref="char:EOLhyphen"/>pheſied. ALSO
+<q>
+                  <l>Things to come are here declared,</l>
+                  <l>but blind men cannot ſee:</l>
+                  <l>But as the World draws to an end,</l>
+                  <l>ſome ſhall remember me.</l>
+               </q> 
+               <hi>R. T.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Prov. 10.25.</hi>
+               </bibl> As the whirlewind paſſeth, ſo is the Wicked no more: but the Righteous is an Everlaſting Foundation.</q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1664.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="2" facs="tcp:93778:2" rendition="simple:additions"/>
+            <head>This is for all or any of thoſe, by what name or title ſoever they be diſtinguiſhed, that reſiſt the Spirit, and deſpiſe the Grace that brings Salvation, that favour them which work Wickedneſs, and con<g ref="char:EOLhyphen"/>demn the Righteous; upon ſuch muſt be fulfilled the Judgements propheſied.</head>
+            <p>HEar a little though you be mighty, and be intreated to weigh with ſeriouſneſs, what one fearing the Lord ſays unto you, who are <hi>executing</hi> the Act made againſt ſuch as meet to worſhip contrary to the Ly<g ref="char:EOLhyphen"/>turgy of the Church of <hi>England,</hi> which we have heard is accor<g ref="char:EOLhyphen"/>ding to the Scriptures; for and in the Scriptures we have been trained up many of us from our childhood, and exerciſed there<g ref="char:EOLhyphen"/>in; and we have heard ſome of your Teachers and Worſhip<g ref="char:EOLhyphen"/>pers ſay that it is your Rule, and that all things are to be tryed by it, and that you that deal thus hardly with us, are called Chriſtians, and would be ſo owned by us: if ſo you be, let Chriſt's Words be of authority with you; for we do believe, (even with that you are going about to exile) that God will one day judge the World by that Man <hi>Chriſt Jeſus;</hi> and there<g ref="char:EOLhyphen"/>fore we fear to tranſgreſs his Commands; whom we know hath declared, What profit would it be to gain the whole World, and loſe our own Souls? And we do believe, and have found it ſo, that he which pleaſeth Man cannot pleaſe God: This is Scrip<g ref="char:EOLhyphen"/>ture, Friends, and that out of the mouth of Chriſt; So he is no Chriſtian that believes not Chriſt: And for the keeping of this Commandment, have the holy Martyrs ſuffered in all Genera<g ref="char:EOLhyphen"/>tions, from righteous <hi>Abel</hi> unto this day, becauſe they could not conform to Mens Wills, Pleaſures and Laws: <hi>We have a Law,</hi> ſay the Jews, <hi>by which he ought to die;</hi> and <hi>Pilate</hi> to pleaſe them (though the Witneſs of God ſhewed him he was juſt) yet hearkened to them that ſaid, <hi>He was not Caeſars friend, if he let this man go;</hi> ſo to pleaſe Man, he delivered Chriſt to be cruci<g ref="char:EOLhyphen"/>fied;
+<pb n="3" facs="tcp:93778:2" rendition="simple:additions"/>and it was not any outward Waſhing that could ever take away his guilt. <hi>Stephen,</hi> that holy Martyr, though he be<g ref="char:EOLhyphen"/>lieved the Scriptures, and knew them well (as you may read) yet becauſe he denyed their Worſhip or Temple, telling them that they reſiſted the holy Ghoſt (which he knew that all who have nor learned of Chriſt do) and that in the Spirit God will be worſhipped, and that ſuch Worſhippers he did and doth ſeek. Surely all Chriſtians may then ſee, that they which go about to condemn, baniſh, and bring to an end Spiritual Worſhippers, do walk contrary to God the Father; for he ſeeks them, ſaith the Scriptures, <hi>to worſhip him in Spirit,</hi> and Men would looſe them; O Men are you ſtronger than God?</p>
+            <p>I have found that the <hi>Quakers</hi> are of <hi>Pauls</hi> Religion, who teſtifie that God is a <hi>conſuming Fire,</hi> and that it is a fearful thing to fall into the hands of the living God; ſo we have choſen to ſuffer (as juſt <hi>Stephen</hi> did ſtoning) priſoning or baniſhing, ra<g ref="char:EOLhyphen"/>ther than to ceaſe worſhipping in the Spirit, or ſpeaking of his Name, who requires Truth in the <hi>Inner Parts,</hi> and is to be wor<g ref="char:EOLhyphen"/>ſhipped every where in Truth and in Spirit: and if God ſays <hi>every where,</hi> and Men ſay not in this place, nor in this, for if you meet here, we will have you to priſon, and baniſh you; judge you Chriſtians, <hi>Whether it be better that we obey God or Man?</hi> Many inſtances do the Scriptures give you of this Truth, which you ought to ſeek into; and who are noble among you will do ſo. Remember <hi>Moſes,</hi> he feared not the Wrath of a King; remem<g ref="char:EOLhyphen"/>ber <hi>Daniel,</hi> and the three Children; and many more might be inſtanced both of holy Men &amp; Women, who followed the Lord fully to the Obedience of his Commands, diſobeying any that commanded contrary, whatever they ſuffered for it; and upon this account the holy Martyrs ſuffered formerly, and now much in theſe latter dayes, even ſome to Hanging, cruel Whippings and Impriſonments, and ſpoiling of Goods and Eſtates, and upon no other Account, nor for no other Cauſe, but becauſe in our obeying God we have diſobeyed man.</p>
+            <p>But it may be you will ſay, that <hi>The Scripture ſayes that Re<g ref="char:EOLhyphen"/>bellion is ſin, and Diſobedience is ſin, and requires us to be ſubject un<g ref="char:EOLhyphen"/>to Kings, and Rulers, and Parents, and Maſters,</hi> &amp;c.</p>
+            <p>And to this I anſwer; We are ſo to all thoſe, not for fear but
+<pb n="4" facs="tcp:93778:3" rendition="simple:additions"/>for Conſcience ſake, and in all things are ſubject to the Higher Power, which I hope none of you will deny to be Chriſt, for he is the Power of God; and in Him did the Apoſtle <hi>Paul</hi> com<g ref="char:EOLhyphen"/>mand Wives, Children, Servants and Subjects to obey in the Lord, for whoſe ſake all theſe were alſo to be denyed and forſa<g ref="char:EOLhyphen"/>ken, if the Lord called to it; as <hi>Moſes,</hi> &amp; <hi>Daniel</hi> &amp; <hi>Paul</hi> could obey thoſe very Kings and Rulers in ſome things, which in other things pertaining to God and their Conſcience, they could not, and though it were Rebellion and Gain-ſaying for the People to reſiſt <hi>Moſes</hi> and <hi>Aaron,</hi> that wiſhed they had been all Pro<g ref="char:EOLhyphen"/>phets; yet it was not Rebellion nor Evil, that Chriſt and his Apoſtles did reſiſt the High Prieſts and Rulers of Iſrael; when they commanded them to ſpeak no more in his Name, then they waxed more bold, knowing it was better to pleaſe God than Man, ſo they ſuffered impriſoning, whipping, ſtocking and ſto<g ref="char:EOLhyphen"/>ning, chuſing rather to pleaſe God than Man.</p>
+            <p>But it may be you'l ſay, I wrong you to compare you to the perſecuting Rulers of <hi>Jeruſalem:</hi> and you would have me and others to believe that you are like <hi>David</hi> and <hi>Solomon, Moſes</hi> and <hi>Aaron;</hi> but I'le tell you, why we cannot ſo believe, be<g ref="char:EOLhyphen"/>cauſe we believe the Scriptures, and all that Chriſt ſaith; and he ſaith, we ſhall know <hi>the tree by its fruit,</hi> and that rave<g ref="char:EOLhyphen"/>nous Wolves would creep in in ſheeps cloathing, and devour the flock.</p>
+            <p>Now we find that the Prieſts and Fathers of the Church of <hi>England</hi> are ſo unlike <hi>Moſes</hi> and <hi>Aaron</hi> (that wiſhed that all the Lord's People were Prophets) if they hear of any that witneſs the New Covenant in the heart (that the Scriptures ſpeak of) and the pouring forth of the Spirit on Sons and Daughters, that they propheſie; theſe they account Hereticks, and inſtead of caſting them out in the Spirit of Chriſt (as <hi>Paul</hi> did, who ſaid indeed, that the evil doers ſhould be given up to the Devil, for the ſaving of the Souls in the Day of the Lord) they give us up (before they have proved us either in error or evil doing to the civil Magiſtrates to perſecute and caſt in priſon for not confor<g ref="char:EOLhyphen"/>ming to we know not what; ſo would make ſimple people be<g ref="char:EOLhyphen"/>lieve, that they give us up to the Devil when they give us up to you; by this means our Goods and Eſtates have been waſted
+<pb n="5" facs="tcp:93778:3" rendition="simple:additions"/>and we impriſoned (yea ſome for their whole life time) which Proceedings be ſo unlike thoſe good Shepherds which Chriſt told us of, that would lay down their lives for their Sheep, that I and many do believe in our Conſciences, ſuch are more like to be the Wolves and Hirelings which Chriſt ſpoke of, which would run away when the Devourers came, for they were gone and their Religion for many years, that if we would, we knew not where to find them: And there are many thouſands in theſe Na<g ref="char:EOLhyphen"/>tions, that may not be come with the Quakers, to give their backs to the Smiters, and their cheeks to the pulling off of their hair, which are of this mind concerning your Prieſts: And for your Magiſtrates, I and my Friends have not found that you are ſuch as put the Wicked far from you, and will not let a Lyar dwell in your houſe, or that you are a Terrour to Evil-Doers, and a praiſe to them that do Well, nor that you releive the Op<g ref="char:EOLhyphen"/>preſſed, nor ſet the Priſoners at Liberty, or defend the Inno<g ref="char:EOLhyphen"/>cent, nor ſuppreſs the Proud, as thoſe good Rulers did; for Drunkards, Swearers, Proud and Wanton perſons are at liber<g ref="char:EOLhyphen"/>ty, and thoſe who have departed from Iniquity (and fears to ſin againſt God) are haled to Priſon by thoſe that work wickedneſs, yea ſome of thoſe that have ſate to do Juſtice, have ſmore, pinch<g ref="char:EOLhyphen"/>ched, tore off the hair of ſuch as have been brought before them, though they have had nothing againſt them, but for worſhipping God in Spirit; and theſe are ſome of the reaſons that we can<g ref="char:EOLhyphen"/>not believe, that theſe are good Trees that bring forth ſuch bad Fruit, or that they rule in or for God, that is the preſerver of man, that inſtead of preſerving us (as good <hi>David</hi> did, who of<g ref="char:EOLhyphen"/>fered his life that the Plague might ceaſe from his People) you have caſt many hundreds of us into priſon together, in the heat of Summer, which might bring ſickneſs and death, to the de<g ref="char:EOLhyphen"/>ſtroying of us; and as if this were not enough, are haſtening to tranſport us into unknown places of the Earth: Is this like Chriſt, or thoſe that ruſe in him, who gave his Life for his Ene<g ref="char:EOLhyphen"/>mies: but we that fear the Lord, have prayed that ſome of you might come to the Wiſdom of <hi>Gamaliel,</hi> and ceaſe from your cruelty, <hi>leſt you be found fighters againſt God; for what is of God ſhall ſtand;</hi> and know, <hi>That by true Judgement and Mercy, the Throne of the King ſhall be eſtabliſhed.</hi> And of how little ac<g ref="char:EOLhyphen"/>count
+<pb n="6" facs="tcp:93778:4" rendition="simple:additions"/>ſoever you the Magiſtrates of <hi>England</hi> make of us, God hath regard to all that fear him, and he did and will plead with thoſe, that throw his Law behind their backs; and though we have and may ſtill feel hard ſufferings for breaking Mans Laws, do you think to eſcape for breaking God's Laws? and he hath not left you without the knowledge, that you ſhould do to eve<g ref="char:EOLhyphen"/>ry one, as you would be done by; now have you, or are you about to do ſo by us, that have caſt us in priſon, &amp; are preparing for our baniſhment, before you have ſent any of the Fathers of the Church to convince us of our error, or give us ſound rea<g ref="char:EOLhyphen"/>ſon that you are in the Truth, yet go about (becauſe we will not conform to worſhip we know not what) to ſeparate Husbands from Wives, and Wives from Husbands, Children from Pa<g ref="char:EOLhyphen"/>rents, and Parents from Children, and all from the Land of our Nativity, from our Eſtates and livelihoods, who though accoun<g ref="char:EOLhyphen"/>ted as a poor People, have all our time we have been a People born paat of your burdens and charges, and yet you not charged by us, nor have you found any thing againſt us, but in this mat<g ref="char:EOLhyphen"/>ter of our God, that we keep our Conſcience undefiled, know<g ref="char:EOLhyphen"/>ing the Scriptures of Truth, <hi>That in the pure Conſcience is held the Myſtery of Faith;</hi> and if we have the Faith, we ſhall have the victory over wickedneſs, for againſt that we war; for by this the Saints did overcome; and though you baniſh us, we ſhall conquer (the Devil I mean) for we have the Faith; but if you think we have not, deal ſo righteouſly with us, as to ſend your Teachers to us into our meetings, to convince us by the Scriptures, and plain Demonſtrations of the Spirit, as <hi>Paul did,</hi> who ſaid, <hi>He was manifeſt to that of God in every man: Conſci<g ref="char:EOLhyphen"/>ence;</hi> and in ſo doing we might be conformed to you: And if you ſhould ſay to us, we may go to the ſeveral places &amp; hear them there; we anſwer, thoſe that Chriſt ſent and called to convert men, and turn them from the evil of their wayes, ſought them out and went to them: but if we ſhould go to them, as ſome have, and ask them any Queſtion, or object againſt any thing they ſay, would they anſwer us, and ſatisfie us? or would they not rather turn us out and impriſon us, as they have done by ſome of us.</p>
+            <p>So Friends conſider theſe things, whether you have done to
+<pb n="7" facs="tcp:93778:4" rendition="simple:additions"/>us as you would be done by. What if the Quakers had power to compel to their Religion? but they are ſo low, the Mighty of the Earth never fear their riſing. But what if the Papiſts or Turks had power, would you be thus uſed by them? or would you yield to them, without any other arguments, than Blows, Priſons and Baniſhment? Well Friends, if ever you ſhould be tryed as God is trying us by you, you will have need of our ſtrength; which yet you reſiſt, though it yet hath not done ſtri<g ref="char:EOLhyphen"/>ving with ſome of you; and this upholds us, that we cannot fear what Man can do unto us; for the Lord is with us, and the Ark of his Strength, and a hiding place is prepared for us, and he will ariſe to plead the Cauſe of the Innocent. Some among you God hath and will viſit with Mercy, and they will fear to go on in the execution of your unrighteous Decrees, leſt they be found fighters againſt God: and you that have been and are working ſo wiſely as you think for the ſafety of the Nation, by ſuppreſ<g ref="char:EOLhyphen"/>ſing the Innocent, and forcing to conformity, what if I ſay un<g ref="char:EOLhyphen"/>to you, remember what the Prophet ſaid, <hi>If God ſpeak war, who can ſpeak peace?</hi> therefore that which concerns your peace, do not ſtill reject; for he had the tongue of the Learned, that ſaid, there was but one thing needful, and this indeed pre<g ref="char:EOLhyphen"/>ſerveth Men and Nations; and if this were taught and ſought amongſt you, wickedneſs would not ſo abound as it doth: but God hath ſhewed thee, O Man, what thou ſhouldſt do, to ſhew Mercy and walk humbly; for if you do go on to deal thus with an Innocent People (that never wronged any of you, nor have been hurtful unto the Nation in any thing) God will ariſe to plead our Cauſe, and in that day the Merciful ſhall find Mercy, but the proud and ſuch as forget God, muſt be turned into Hell. O be wiſe ye Rulers of the Earth, and diſcern the Signs of his Coming whoſe reward is with him; doth not your Nation abound with wickedneſs? remember <hi>Sodom</hi> when <hi>Lot</hi> was gone forth of it; remember <hi>Jeruſalem,</hi> when they had crucified the <hi>Juſt;</hi> O how fearful and ſuddain was their deſtruction! So will it be upon all that forget God.</p>
+            <closer>
+               <signed>R. T.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb n="8" facs="tcp:93778:5" rendition="simple:additions"/>
+            <head>Things to come are here declared, but blind Men cannot ſee: But as the World draws to an End, ſome ſhall remember me.</head>
+            <l>SUrely the Folly of the Fool, ſhall ſoon be brought to nought;</l>
+            <l>His hope and glory in its height, is like the vaniſhing thought,</l>
+            <l>Of him that did enlarge his barns, wherein to lay his ſtore;</l>
+            <l>To take his eaſe he went to ſleep, and never waked more.</l>
+            <l>So ſurely is the Fool enſnar'd, that glories in his ſhame,</l>
+            <l>And ſeeks the Earth with all his might, there to exalt his name:</l>
+            <l>His glory in his higheſt ſtate, is but as withering hay,</l>
+            <l>Whoſe beauty's paſt, and ſo ſhall theirs ſuddenly paſs away.</l>
+            <l>And when in Earth they ſhall be laid, from whence their hope did riſe,</l>
+            <l>Their portion in the dark to reap, who did the Light deſpiſe.</l>
+            <l>Where will their worth and high renown be heard of any more,</l>
+            <l>Who made a ſcorn of ſimple ones, and did oppreſs the poor?</l>
+            <l>They ſtew the Juſt, and merry made over the Holy One:</l>
+            <l>But he that reigns in righteouſneſs did hear their plaint and moan;</l>
+            <l>Who for his Name did ſuffer long: he care of ſuch did take.</l>
+            <l>And in his Wrath doth chaſe their foes, even for his Mercies ſake.</l>
+            <l>As they have hunted with delight, the Lambs to terrifie;</l>
+            <l>So ſhall the works which they have wrought, with fear cauſe them to fly;</l>
+            <l>For God againſt them will appear, who miſchief do deviſe,</l>
+            <l>And ſoon they ſhall be overturn'd, whoſe refuge is in lies.</l>
+            <l>But all that in my God do truſt, aſſured help ſhall have,</l>
+            <l>For Truth and Mercy's their defence, and ſafely ſhall them ſave.</l>
+            <l>Our Rock of ſtrength, our hope and help, which in him put our truſt,</l>
+            <l>Shall firmly ſtand, and glorious be, when you are in the duſt,</l>
+            <l>Who have work'd wiſely as you gueſs, to hinder our increaſe;</l>
+            <l>You've priſoned, ſtock'd, and ſhed our blood, but have not gain'd your peace.</l>
+            <l>For all your threats and murderous blows, we do not turn nor fly,</l>
+            <l>But grow and multiply apace in midſt your Tyranny.</l>
+            <l>So as the Fool that beats the wind, your labour hath been vain,</l>
+            <l>You go about to ſtop a Stream the Ocean doth maintain.</l>
+            <l>We have no weapons fit for war, indeed we cannot fight;</l>
+            <l>But there's an Arm doth us defend, hath taen away your ſight.</l>
+            <pb n="9" facs="tcp:93778:5"/>
+            <l>And ſo as blind you groap about, hoping to ſmite your foe;</l>
+            <l>But as men blind you beat the wind, and let your enemies go.</l>
+            <l>Why do you ſnarle thus at the Stone, and never mind the Hand,</l>
+            <l>That doth beſet with dread and fear in City, Town and Land?</l>
+            <l>I could you tell if you could hear, what ſoon to paſs ſhall come;</l>
+            <l>Your wiſe men ſhall it not foreſee, but feel it and be dumb.</l>
+            <l>For every mouth muſt ſtopped be, that hath defam'd the <hi>Light,</hi>
+            </l>
+            <l>And thunder ſtroak ſhall cleave the Oake in all the peoples ſight:</l>
+            <l>In darkneſs ſhall a flame break forth, that fiercely ſhall devour;</l>
+            <l>Stubble and droſs it muſt conſume by uncontrouled Power.</l>
+            <l>From Heav'ns black Clouds it doth deſcend, the Earth to compaſs round,</l>
+            <l>And enter ſhall with piercing heat, the Mighty to confound.</l>
+            <l>The ſchrikes &amp; crys, and dredful groans, that then ſhall fill your ears,</l>
+            <l>You cruel wanton jolly ones, ſhall then be fill'd with fears:</l>
+            <l>The Dogs ſhal howl, the Buls ſhall roar, the Wolves &amp; Goats ſhal run,</l>
+            <l>No Fox ſhall find a hiding place, nor Vulture this Plague ſhun;</l>
+            <l>The Panthor ſhall be tamed then, the Lyons hunger bit,</l>
+            <l>And every Beaſt of prey be bound, and ſent into the Pit.</l>
+            <l>The dreadful groans of ravenous Beaſts, bereaved of their prey,</l>
+            <l>Shall turn your pleaſures into woes, and drive your mirth away.</l>
+            <l>For why? your hope ſhall then be paſt, your ſtrife &amp; ſtrength ſhal fail,</l>
+            <l>When that which you have ſtrove to quench, doth more &amp; more prevail</l>
+            <l>The mark at which you chiefly ſhot, and did ſo fiercely kick,</l>
+            <l>Turns back with force, and to the heart moſt ſurely doth you prick.</l>
+            <l>The little ſpark that ſeems ſo ſmall, when you began to ſtrive,</l>
+            <l>Is now become a mighty flame, and fiercely doth you drive:</l>
+            <l>And where to hide you cannot find; the Light doth plainly ſhow,</l>
+            <l>He that hath loved violence, in Darkneſs loves to go.</l>
+            <l>The Day is come, and doth increaſe, at which the Night muſt fly,</l>
+            <l>And they that in it wrought their work, with dreadful voice do cry</l>
+            <l>For Hills &amp; Mountains them to hide, who have withſtood the <hi>Light;</hi>
+            </l>
+            <l>For now the Lamb appears to war; which is a dreadful ſight</l>
+            <l>To thoſe which have not fed nor cloath'd, nor viſited Him at all,</l>
+            <l>But rent his Sheep, and bit his Lambs, and caſt them into thral;</l>
+            <l>A Kingdom is prepar'd for you, in Juſtice there to dwell,</l>
+            <l>Who hate the Light, and Darkneſs love, are making haſt to Hell.</l>
+            <l>A Citty alſo is prepar'd, whoſe Maker is the Lord,</l>
+            <l>He ſafely keeps it by his Power, there is no fence nor ward,</l>
+            <pb n="10" facs="tcp:93778:6" rendition="simple:additions"/>
+            <l>But that which ſmites the wicked One, and makes the fearful fly,</l>
+            <l>With proud and cov'tous wanton ones, that love and makes a lye.</l>
+            <l>
+               <hi>Jeruſalem</hi> that's from above, the Mother of us all,</l>
+            <l>Hath ſet us free at liberty, in Holineſs to call</l>
+            <l>On him who gives the entrance in, and is the hiding place,</l>
+            <l>Of all the Followers of the Lamb, which wait to ſee his face,</l>
+            <l>And with his Glory ſhall be fill'd within this City pure;</l>
+            <l>The Light whereof is perfect Day, and ever ſhall endure,</l>
+            <l>No more ſhall Night nor Darkneſs come, once to diſturb our reſt,</l>
+            <l>Who for the Lamb are now prepared, and with his Beauty dreſt,</l>
+            <l>Who have not ſpar'd to follow him through Tribulations great,</l>
+            <l>Nor lov'd our lives unto the death, nor flee for ſhame or threat.</l>
+            <l>He hath prepar'd us for himſelf, and waſh'd us in his Blood,</l>
+            <l>And turn'd your evil purpoſes unto our greateſt good.</l>
+            <l>Your fierce unmanly violence, hath rendrd you a ſhame.</l>
+            <l>Our patient ſuffring doth declare, that we are free from blame.</l>
+            <l>For all your eager hunting thus, you have not got the prey;</l>
+            <l>For why? our lives is hid in that which never ſhall decay.</l>
+            <l>You may go on as you have done, to make a hideous noiſe,</l>
+            <l>And ſtare about to make a rout, and then go ask the cauſe,</l>
+            <l>Why you (like mad men) fight with thoſe that ne're did you reſiſt;</l>
+            <l>And what reward muſt you receive, that ſtrike with wicked fiſt?</l>
+            <l>It may be you obedient are to thoſe that you command,</l>
+            <l>That cloathed are with glittering robes, that rule both Sea &amp; Land.</l>
+            <l>They honour can, and riches give; and this you fain would have:</l>
+            <l>But there's a Storm a coming on in which this will not ſave.</l>
+            <l>I tell you men that are ſo wiſe, you then ſuch fools will be,</l>
+            <l>Whoſe minds and eyes were in the Earth, and did not Heaven ſee;</l>
+            <l>Nor he that in the Clouds deſcends, to ſet the Oppreſſed free,</l>
+            <l>For their Redemption haſtens on; a dreadful day to you will be:</l>
+            <l>For as the Spoilers have you been, and made it your delight;</l>
+            <l>So ſuddenly will miſchief come as a thief at mid-night:</l>
+            <l>And then your hopes and treaſures both, in which you had your truſt,</l>
+            <l>With your rewarder and reward, goes down unto the duſt:</l>
+            <l>For our avenger is at hand, to plead our righteous Cauſe;</l>
+            <l>For we have born your Cruelty, and kept his holy Laws;</l>
+            <l>He ſhall you judge, whom we do fear, for all your works of Night,</l>
+            <l>Who to his Light and People have, offered ſuch great deſpight:</l>
+            <pb n="11" facs="tcp:93778:6"/>
+            <l>Your haughty Looks and ſwelling Waves, will ſtand in little ſtead,</l>
+            <l>Your gorgeous Robes and tendance great, will not ſupply your need;</l>
+            <l>It's not your Gold, nor Riches great, nor ought in Earth you have,</l>
+            <l>Can bribe this Judge, or blind his Eye, or for you mercy crave.</l>
+            <l>As you have done, ſo muſt you have according to your deed,</l>
+            <l>Who have not heard the Juſts complaint, of Mercy now have need,</l>
+            <l>And ſhall not find, for it's from you departed,</l>
+            <l>That in your ſcorn have made forlorn, the poor and upright-hearted:</l>
+            <l>You truſted ſo in Vanity, that Mercy you forſook;</l>
+            <l>And we that met the ſame to find, alone to him did look;</l>
+            <l>And he to us hath great regard, who did the Devil deny,</l>
+            <l>With all his works and followers, with pomp and dignity.</l>
+            <l>We have not ſaid, but done the thing, in which he doth delight;</l>
+            <l>Therefore he'l plead our Cauſe with you, even in the Nations ſight;</l>
+            <l>And he will differ by his Power, the Doer from the Sayer,</l>
+            <l>And quite defame the Hypocrite, that ſeem'd to be ſo fair:</l>
+            <l>For thoſe are they whom God doth hate, who ſeem, and are not ſo:</l>
+            <l>For Hypocrites is Hell prepar'd, and to it muſt they go.</l>
+            <l>But on the Rock they ſurely build, whom tempeſt cannot ſhake,</l>
+            <l>Nor bluſtring ſtorms them once diſturb, that of his Life partake;</l>
+            <l>Who by the Spirit is reveal'd, the Son of God to be;</l>
+            <l>But all that do reſiſt the Spirit, the Truth can never ſee.</l>
+            <l>So from the Rock they all are erred, gainſt which Hell can't prevail;</l>
+            <l>But we that in it have our ſtrength, ſhall never fade nor fail.</l>
+            <l>Therefore you Holy Ones be glad, and make a cheerful noiſe,</l>
+            <l>In heart and ſoul ſpeak forth his praiſe, and with pleaſant verce,</l>
+            <l>Who hath not left our ſouls i'th'grave, nor us a prey to be,</l>
+            <l>To hungry Beaſts who have purſued our ruine for to ſee.</l>
+            <l>Thou, Lord, haſt fil'd our hearts with praiſe, thy preſence we have had;</l>
+            <l>In Priſons and in tryals great, in which we have been glad:</l>
+            <l>And thou wilt never us forſake; but be our great reward,</l>
+            <l>Who have not fear'd what man could do, but to thee gave regard;</l>
+            <l>Who in the Spirit doth thee ſerve, the fruits ſhall all men ſee,</l>
+            <l>In Patience, Mercy, Love and Truth, and theſe draw near to thee;</l>
+            <l>From whom they flow, and have increaſ'd the Fountain of our Life,</l>
+            <l>Prepar'd for all thy Holy Ones, to ſhelter from all ſtrife,</l>
+            <l>A hyding place and Rock of truſt, to us thou haſt been made,</l>
+            <l>And ſoon to nought will bring our fees, that ſnares for us have laid;</l>
+            <pb n="12" facs="tcp:93778:7" rendition="simple:additions"/>
+            <l>Then they ſhal mourn when we rejoyce, our praiſe ſhal make them ſoul</l>
+            <l>Our Songs of Joy in thee our ſtrength ſhall make them weak &amp; mad.</l>
+            <l>Who doth in pride and vi'lence grow, ſhall find this ſentence true,</l>
+            <l>They ſhall not miſs to have the ſame, yea every one his due:</l>
+            <l>You that have plow'd &amp; ſow'd the Seed, and nearly brought to paſs,</l>
+            <l>The glory of your work ſhall fade, as doth the new-mow'd graſs;</l>
+            <l>A Storm ſhall riſe and blaſt your crop, and diſappoint your hope,</l>
+            <l>And backward turn your purpoſes, and bring to nought your ſcope;</l>
+            <l>For all your thoughts have proved but vain againſt the Innocent,</l>
+            <l>Their help's in that you do not ſee, nor never can prevent;</l>
+            <l>Upon your backs their ſtrength will fall, to it you muſt be bow'd,</l>
+            <l>That hate the Light, and ſcorn the poor, and would exalt the proud:</l>
+            <l>He laughs at you that ſee him not, that on the winds doth ride,</l>
+            <l>And over all your Hills doth skip, and as a mighty Tyde,</l>
+            <l>Shall over-whelm your Mountains great, wherein you put your truſt,</l>
+            <l>And by the riſing of his Power, ſhall grind you all to duſt.</l>
+            <l>He hath it ſpoke, who can prevent? he will exalt the Juſt,</l>
+            <l>Then down muſt all, both great and ſmall, that in a lye do truſt:</l>
+            <l>Then will you reap as you have ſow'd, according to your deed,</l>
+            <l>Ruine and Loſs, great Pain and Shame, will fill with fear and dread,</l>
+            <l>You'l howl, and run you know not where, when that ſhall you purſue,</l>
+            <l>That you have oft refuſed to hear, muſt now give you your due.</l>
+            <l>I have it learn'd, and muſt declare, that God is good and juſt;</l>
+            <l>Happy are they that Him do fear, and have no other truſt;</l>
+            <l>They ſhall not fall when ill beſets, and ſorrow doth ſurround,</l>
+            <l>For he'l appear their Cauſe to plead, and all their foes confound,</l>
+            <l>And bring to paſs with wonders great, from harm to ſet them free,</l>
+            <l>And work deliverance by his Power, that to his Praiſe ſhall be.</l>
+            <l>He ſoon can make the Hills to quake, and move the Mountains high,</l>
+            <l>And make a plain for them to walk, that on his ſtrength rely,</l>
+            <l>And ſet them up above the proud, that ſwell like raging Sea,</l>
+            <l>And cried, We will ſuppreſs them all, they ſhall no longer be:</l>
+            <l>Away (they cryed) with Holineſs, and worſhip in the Spirit,</l>
+            <l>For we'l enjoy our luſt in fleſh, what elſe would we inherit?</l>
+            <l>Your choice is vain, and ſhort's your time, and ſoon will ended be;</l>
+            <l>But thoſe whom you have wrought againſt, do know Eternitie.</l>
+            <l>That wil wear out, your vain <hi>Decrees,</hi> and prove your Acts but vaine</l>
+            <l>Our Peace will laſt, and Joy abound, when you ſhall be in pain.</l>
+            <closer>
+               <signed>R. T.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:93778:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
